@@ -37,8 +37,8 @@ dependency "expat"
 
 relative_path "git-#{version}"
 
-version "2.8.2" do
-  source md5: "3022d8ebf64b35b9704d5adf54b256f9"
+version "2.13.2" do
+  source md5: "894583cddfb0ec3b0156484966f9db9c"
 end
 
 source url: "https://www.kernel.org/pub/software/scm/git/git-#{version}.tar.gz"
